@@ -8,7 +8,7 @@ venv/
 .env
 
 # Data
-data/raw/
+data/raw/*.csv
 data/processed/
 data/chunks/
 data/vector_store/
